@@ -1,5 +1,5 @@
 # semantic-kernel
-
+![SHIVAM ITCS Fork](https://img.shields.io/badge/maintained%20by-SHIVAM%20ITCS-blue)
 > **SHIVAM ITCS Fork** 18+ years .NET Core Azure AI Agentic Systems
 >
 > Upstream: [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) Commit: `ca40aa72`
