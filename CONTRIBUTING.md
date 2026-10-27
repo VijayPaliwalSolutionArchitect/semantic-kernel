@@ -11,7 +11,9 @@ tips on how you can make reporting your issue as effective as possible.
 
 ### Where to Report
 
-New issues can be reported in our [list of issues](https://github.com/microsoft/semantic-kernel/issues).
+New issues can be reported in our [list of issues](https://github.com/VijayPaliwalSolutionArchitect/semantic-kernel/issues).
+
+> **Note for this fork:** This repository is maintained by SHIVAM ITCS. Issues filed here are triaged by the SHIVAM ITCS team, not by the upstream maintainers. For questions about the upstream project itself, refer to [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel).
 
 Before filing a new issue, please search the list of issues to make sure it does
 not already exist.
@@ -92,7 +94,7 @@ We use and recommend the following workflow:
      "issue-123" or "githubhandle-issue".
 4. Make and commit your changes to your branch.
 5. Add new tests corresponding to your change, if applicable.
-6. Run the relevant scripts in [the section below](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#dev-scripts) to ensure that your build is clean and all tests are passing.
+6. Run the relevant scripts in [the section below](https://github.com/VijayPaliwalSolutionArchitect/semantic-kernel/blob/main/CONTRIBUTING.md#dev-scripts) to ensure that your build is clean and all tests are passing.
 7. Create a PR against the repository's **main** branch.
    - State in the description what issue or improvement your change is addressing.
    - Verify that all the Continuous Integration checks are passing.
@@ -103,7 +105,7 @@ We use and recommend the following workflow:
 
 The scripts below are used to build, test, and lint within the project.
 
-- Python: see [python/DEV_SETUP.md](https://github.com/microsoft/semantic-kernel/blob/main/python/DEV_SETUP.md#pipeline-checks).
+- Python: see [python/DEV_SETUP.md](https://github.com/VijayPaliwalSolutionArchitect/semantic-kernel/blob/main/python/DEV_SETUP.md#pipeline-checks).
 - .NET:
   - Build/Test: `run build.cmd` or `bash build.sh`
   - Linting (auto-fix): `dotnet format`
